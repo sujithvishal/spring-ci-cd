@@ -71,7 +71,7 @@
 	</dependencies>
 	<packaging>jar</packaging>
 	<build>
-		<finalName>spring<finalName>
+		<finalName>spring</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
